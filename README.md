@@ -22,8 +22,6 @@ Welcome to the GitHub repository for **Felicity**, a powerful Discord bot design
 
 7. **Recommended Rolls**: Get recommendations for optimal rolls on different weapons.
 
-8. **Twitch Live Alerts**: Receive alerts when your favorite streamer goes live on Twitch. The alerts are edited to include a VOD link once the stream ends.
-
 ## Installation
 
 To add **Felicity** to your Discord server, follow these steps:
@@ -72,12 +70,6 @@ Once **Felicity** is added to your Discord server, you can start using its featu
 
   ```diff
   /roll-finder <gamemode> <weapon_name>
-  ```
-
-- To receive Twitch live alerts:
-
-  ```diff
-  /server twitch add <streamer_name> [options]
   ```
 
 For a complete list of available commands and their usage, [check here](https://tryfelicity.one/commands/).
